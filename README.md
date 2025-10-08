@@ -15,7 +15,8 @@ Can you stay perfectly still when the “Red Light” comes on? This interactive
 ## What You Need
 
 - MATLAB Mobile app (iOS or Android)
-- This script, running in MATLAB on your computer
+- This script, saved in your MATLAB Drive, then run on your mobile. Just click on 'Open in MATLAB Online' above to save it your MATLAB Drive.
+  You can do this from your mobile web browser as well!
 
 ## Why Try It?
 
