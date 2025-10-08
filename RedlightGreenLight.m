@@ -1,4 +1,4 @@
-%% Red Light, Green Light Balance Test (Mobile-Optimized, Clean Plot)
+%% Red Light, Green Light Balance Test
 close all; clc; clear;
 
 disp('==============================================');
