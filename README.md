@@ -1,3 +1,4 @@
+[![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=Tharikaa-Kumar/RedLightGreenLight_MATLAB_Mobile&file=blob/main/RedlightGreenLight.m) 
 # Red Light, Green Light Balance Test 🚦
 
 **Test your balance using your phone and MATLAB Mobile!**
